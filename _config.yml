@@ -1,5 +1,5 @@
 title: Daniel Odey
 # logo: /assets/img/heaadshot.png
 description: Data and BI Analyst
-show_downloads: true
-theme: midnight
+# show_downloads: true
+theme: jekyll-theme-midnight
