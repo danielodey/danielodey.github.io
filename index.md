@@ -1,5 +1,5 @@
 ---
-title: "Daniel Odey"
+title: "Daniel Odey's Portfolio"
 ---
 
 # Hello, I am Daniel Odey!
