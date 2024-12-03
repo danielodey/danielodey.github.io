@@ -3,4 +3,4 @@ title: "Daniel Odey"
 description: "Data and Business Intelligence Analyst"
 show_downloads: false
 theme: jekyll-theme-cayman
-# css: /assets/style.css
+css: /assets/style.css
