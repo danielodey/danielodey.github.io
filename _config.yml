@@ -2,5 +2,5 @@ title: "Daniel Odey"
 # logo: /assets/heaadshot.png
 description: "Data and Business Intelligence Analyst"
 show_downloads: false
-theme: jekyll-theme-leap-day
-css: /assets/style.css
+theme: jekyll-theme-cayman
+# css: /assets/style.css
