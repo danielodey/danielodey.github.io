@@ -3,7 +3,7 @@ title: "Daniel Odey's Portfolio"
 ---
 
 # Hello, I am Daniel Odey!
-![headshot](asset/headshot.png)
+![headshot](assets/headshot.png)
 Welcome to my portfolio page. Here are some of my projects
 
 ## Web Scrapping project
