@@ -13,6 +13,8 @@ I thrive at the intersection of curiosity and strategy, consistently delivering 
 
 ### Workplace Attendance Analysis
 
+![Dashboard](assets/workplace_analytics.PNG)
+
 This project analyzes workforce attendance patterns to enhance management and operational efficiency. Using Power BI and DAX, I developed an interactive dashboard showcasing key metrics like attendance rates, remote work trends, and sick leave percentages. Insights revealed trends such as higher attendance on Tuesdays and areas of concern like low presence among remote employees. The dashboard equips management with actionable insights to optimize policies and planning.
 
 **Tools Used**: Microsoft Excel, Power BI
