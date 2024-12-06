@@ -33,7 +33,7 @@ This project explores customer behavior on ShopSmart Inc., an e-commerce platfor
 
 ### Web Scrapping project
 
-![Web Scrapping](assets/webscrapping.png)
+![Web Scrapping](assets/web_scrapping.png)
 
 This project involves web scraping and cleaning football player data from the 2024-2025 Premier League season using Python. Key details, such as player names, teams, dates of birth, heights, and positions, were extracted from worldfootball.net and cleaned with pandas. The data underwent processes like handling missing values, standardizing formats, and was finally exported as a CSV file for further analysis or applications.
 
