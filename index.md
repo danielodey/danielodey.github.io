@@ -10,5 +10,4 @@ With a passion for solving problems through data, I excel in using tools like Mi
 I thrive at the intersection of curiosity and strategy, consistently delivering data solutions that not only answer questions but also inspire new opportunities for growth.
 
 
-## Web Scrapping project
-[Link to Project](https://github.com/danielodey/player-data-scrapper)
+[## Web Scrapping project](https://github.com/danielodey/player-data-scrapper)
