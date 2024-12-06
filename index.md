@@ -11,8 +11,24 @@ I thrive at the intersection of curiosity and strategy, consistently delivering 
 
 # Projects
 
+### Workplace Attendance Analysis
+
+**Tools Used**: Microsoft Excel, Power BI
+
+[Link to Project](https://github.com/danielodey/workplace-analysis-power-bi)
+
+### Shop Smart Customer Analysis
+
+**Tools Used**: Python, Jupyter Notebook
+
+[Link to Project](https://github.com/danielodey/shop-smart-analysis)
+
 ### Web Scrapping project
 
 **Tools Used**: Python, Jupyter Notebook, Beautiful Soup
 
 [Link to Project](https://github.com/danielodey/player-data-scrapper)
+
+# Contact Me
+
+
