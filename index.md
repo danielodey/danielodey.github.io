@@ -47,7 +47,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-odey1/
 ), [twitter/X](https://x.com/danielodey_
 ), or reach out via [email](mailto:odeydaniel1@gmail.com).
 
-Feel free to explore my [Resume](https://drive.google.com/file/d/162-ZJ7P5vlDgLef8xFHESbbXr40tgj33/view
-).
+Feel free to explore my [Resume](https://drive.google.com/file/d/1clMr8kHsesbROjwieorjSN7uOwA4GN3x/view).
 
 
