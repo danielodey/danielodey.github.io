@@ -43,4 +43,11 @@ This project involves web scraping and cleaning football player data from the 20
 
 # Contact Me
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-odey1/
+), [twitter/X](https://x.com/danielodey_
+), or reach out via [email](mailto:odeydaniel1@gmail.com).
+
+Feel free to explore my [Resume](https://drive.google.com/file/d/162-ZJ7P5vlDgLef8xFHESbbXr40tgj33/view
+).
+
 
