@@ -1,4 +1,4 @@
 
-# Project 1
+This is my portfolio project. 
 
-This is a sample of what the roject page should have.
+It details a few of my projects. 
