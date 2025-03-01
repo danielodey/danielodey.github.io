@@ -17,6 +17,8 @@ I thrive at the intersection of curiosity and strategy, consistently delivering 
 
 This project analyzes Nexus Consulting's social media performance across Facebook, Instagram, and Twitter/X using Power BI. The analysis uncovers trends in engagement, impressions, and follower growth, identifying key performance drivers such as posting frequency and peak engagement days (Monday, Tuesday, and Saturday). Insights from the data help optimize content strategy and posting schedules to maximize reach and audience engagement.
 
+**Tools Used**: Microsoft Excel, Power BI
+
 [View Full Project](https://github.com/danielodey/social-media-analysis)
 
 ### Workplace Attendance Analysis
@@ -55,6 +57,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-odey1/
 ), [twitter/X](https://x.com/danielodey_
 ), or reach out via [email](mailto:odeydaniel1@gmail.com).
 
-Feel free to explore my [Resume](https://drive.google.com/file/d/1clMr8kHsesbROjwieorjSN7uOwA4GN3x/view).
+Feel free to explore my [Resume](https://drive.google.com/file/d/1xPm1cAsmONkUCGnw1i7QAPryPwQsWNXZ/view?usp=sharing).
 
 
